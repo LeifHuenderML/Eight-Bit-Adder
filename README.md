@@ -1,5 +1,6 @@
-# Eight-Bit Truncated Adder Project
+# Eight-Bit Truncated Adder
 
+![Eight Bit Adder Example](docs/images/Screenshot 2024-01-29 at 12.38.29 PM.png)
 ## Overview
 
 This repository hosts the design and implementation of an Eight-Bit Adder circuit. The Eight-Bit Adder is a digital circuit that performs addition of two 8-bit binary numbers. The output is also an 8-bit binary number, and any overflow is truncated. This project is ideal for those interested in digital electronics and circuit design.
@@ -23,7 +24,7 @@ Detailed schematic diagrams of the Eight-Bit Adder can be found [here](docs/imag
 Experience the Eight-Bit Adder in action through a Tinkercad simulation. Check it out [here](https://www.tinkercad.com/things/2VmVofHmi9q-eight-bit-truncated-adder-leif-huender).
 
 ## How It Works
-
+![Full Adder Diagram](docs/images/Screenshot 2024-01-29 at 8.01.06 PM.png)
 The Eight-Bit Adder uses a combination of XOR, AND, and OR gates to compute the sum of two 8-bit numbers. The core of this circuit is the Full Adder logic, where each bit of the input numbers is added along with a carry from the previous bit. Here's a brief overview of the role of each component:
 - **XOR Gates**: Used in the initial stage of each bit addition to compute the basic sum.
 - **AND Gates**: Utilized to determine the carry that will be passed to the next bit in the sequence.

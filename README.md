@@ -1,6 +1,6 @@
 # Eight-Bit Truncated Adder
 
-![Eight Bit Adder Example](docs/images/eight-bit-adder-tinkercad.png)
+![Eight Bit Mascott](docs/images/Adder.png)
 ## Overview
 
 This repository hosts the design and implementation of an Eight-Bit Adder circuit. The Eight-Bit Adder is a digital circuit that performs addition of two 8-bit binary numbers. The output is also an 8-bit binary number, and any overflow is truncated. This project is ideal for those interested in digital electronics and circuit design.

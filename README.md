@@ -30,6 +30,10 @@ The Eight-Bit Adder uses a combination of XOR, AND, and OR gates to compute the 
 - **AND Gates**: Utilized to determine the carry that will be passed to the next bit in the sequence.
 - **OR Gates**: Employed to combine carries from different paths in the adder circuit.
 
+## Slideshow
+
+A slideshow detailing the project can be found [here](https://docs.google.com/presentation/d/1QIRr9Ut_4UE3dOANzcCgTUGjpqBgL6a2TocwhK-DkUw/edit?usp=sharing)
+
 ## Getting Started
 To get started with this project:
 1. Clone the repository to your local machine.
